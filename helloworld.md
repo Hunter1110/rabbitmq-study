@@ -17,6 +17,6 @@ RabbitMQ和一般的信息传送都使用一些行话。
 
 注意，生产者、消费者和中介不必要在同一台机器；确实在大多数应用程序它们都不是在同一台机器。
 
-## "Hello World"  
+## "Hello World"
 
-test test test
+测试
